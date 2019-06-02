@@ -1,6 +1,8 @@
 # Audio Stream
 
-##I use the ExoPlayer library for streaming the audio files. The audio files are located online in a Firebase Firestore database
+## I use the ExoPlayer library for streaming the audio files. The audio files are located online in a Firebase Firestore database
+you can check it on google play in the follwing url
+https://play.google.com/store/apps/details?id=com.asmaa.davinci.xy.playback1
 
 
 ![Screenshot_20190602-015211_AudioStreamer (1)](https://user-images.githubusercontent.com/47636256/58755466-79f92f00-84ed-11e9-9146-655d14b2b274.jpg)
